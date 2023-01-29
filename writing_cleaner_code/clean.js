@@ -22,9 +22,9 @@ const spendingLimits = Object.freeze({
 // budget[0].value = 10000;
 //it will be change
 
-const getLimit = user => {
+const getLimit = (limits, user) => {
   // const limit = spendingLimits[user] ? spendingLimits[user] : 0;
-  return spendingLimits?.[user] ?? 0;
+  return limits?.[user] ?? 0;
 };
 
 // Pure function
@@ -37,7 +37,7 @@ const addExpense = function (
 ) {
   const cleanUser = user.toLowerCase();
 
-  return value <= getLimit(cleanUser)
+  return value <= getLimit(limits, cleanUser)
     ? [...state, { value: -value, description, cleanUser }]
     : state;
 };
@@ -59,20 +59,37 @@ console.log(newBudget1);
 console.log(newBudget2);
 console.log(newBudget3);
 
-const checkExpenses = function () {
-  for (const entry of budget)
-    if (entry.value < -getLimit(entry.user)) entry.flag = 'limit';
-};
-checkExpenses();
+// const checkExpenses2 = function (state, limits) {
+//   return state.map(entry => {
+//     return entry.value < -getLimit(limits, entry.user)
+//       ? { ...entry, flag: 'limit' }
+//       : entry;
+//   });
+//   // for (const entry of budget)
+//   //   if (entry.value < -getLimit(limits, entry.user)) entry.flag = 'limit';
+// };
+// The same function as array function
 
-const logBigExpenses = function (bigLimit) {
-  let output = '';
-  for (const entry of budget)
-    output +=
-      entry.value <= -bigLimit ? `${entry.description.slice(-2)} / ` : '';
+// Pure function
+const checkExpenses = (state, limits) =>
+  state.map(entry =>
+    entry.value < -getLimit(limits, entry.user)
+      ? { ...entry, flag: 'limit' }
+      : entry
+  );
 
-  output = output.slice(0, -2); // Remove last '/ '
-  console.log(output);
+const finalBudget = checkExpenses(newBudget3, spendingLimits);
+console.log(finalBudget);
+
+// Inpure function, because of console.log()
+const logBigExpenses = function (state, bigLimit) {
+  const bigExpenses = state
+    .filter(entry => entry.value <= -bigLimit)
+    .map(entry => entry.description.slice(-2))
+    .join(' / ');
+  //   .reduce((str, cur) => `${str} / ${cur.description.slice(-2)}`, '');
+
+  console.log(bigExpenses);
 };
-console.log(budget);
-logBigExpenses(500);
+// console.log(budget);
+logBigExpenses(finalBudget, 500);
