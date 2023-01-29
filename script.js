@@ -113,7 +113,11 @@ console.log(cart);
 // mv .\iryna.html ../  - przenosi file do ../ - rodzica
 // rmdir TEST - usuwa pusty folder???
 
-import cloneDeep from './.gitignore/node_modules/lodash-es/cloneDeep.js';
+// import cloneDeep from './node_modules/lodash-es/cloneDeep.js';
+
+// poniższy kod dziła za pomocą parcel(nie działa bez niego - patrz powyżej):
+
+import cloneDeep from 'lodash-es';
 
 const state = {
   cart: [
@@ -142,3 +146,20 @@ console.log(stateClone);
 const stateDeepClone = cloneDeep(state); //ten clon zostanie bez zmian
 state.user.loggedIn = false;
 console.log(stateDeepClone);
+
+// ///////////////////////////////////////
+// bundling with PARCEL and npm scripts
+//npm i parcel --save-dev
+
+if (module.hot) {
+  module.hot.accept();
+} //this code only parcel can understand
+// wszystkie zmiany w kodzie dodaj się do strony, bez jej przeładowywania
+
+console.log(stateDeepClone);
+
+// Also we can ads to package.jsom w object "scripts":{
+// "start":"parcel index.html"
+// }
+// Next using it in our terminal:
+// npm run start
