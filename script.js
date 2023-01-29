@@ -98,3 +98,16 @@ console.log(cart);
 
 //     // Import
 //     const {addToCart} = require('./shoppingCart')
+////////////////////////////////////////
+
+// a brief introduction to th commend line
+
+// dir - pokazuje składnie foldera
+// cd ..  - wyjść na folder wyżej
+// cd zacząć pisać nazwę folderu i kliknąć TAB - przejdzie do wubranego foldera
+// cd ../.. - folder 2 razy powyżej
+// clear
+// mkdir TEST - tworzy folder z nazwą TEST
+// new-item index.js - tworzy file
+// del index.js - usuwa file
+// mv .\iryna.html ../  - przenosi file do ../ - rodzica
