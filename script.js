@@ -54,33 +54,47 @@ console.log(cart);
 ///////////////////////////////////////////////////////////////
 // Module patern - to w jaki sposób były tworzone module, zanim pojawiły się prawdzie module in ES6
 
-const ShoppingCart2 = (function () {
-  const cart = [];
-  const shippingCost = 10;
-  const totalPrice = 237;
-  const totalQuantity = 23;
+// const ShoppingCart2 = (function () {
+//   const cart = [];
+//   const shippingCost = 10;
+//   const totalPrice = 237;
+//   const totalQuantity = 23;
 
-  const addToCart = function (product, quantity) {
-    cart.push({ product, quantity });
-    console.log(
-      `${quantity} ${product} added to cart (shipping cost is ${shippingCost})`
-    );
-  };
+//   const addToCart = function (product, quantity) {
+//     cart.push({ product, quantity });
+//     console.log(
+//       `${quantity} ${product} added to cart (shipping cost is ${shippingCost})`
+//     );
+//   };
 
-  const orderStock = function (product, quantity) {
-    console.log(`${quantity} ${product} ordered from suplier`);
-  };
+//   const orderStock = function (product, quantity) {
+//     console.log(`${quantity} ${product} ordered from suplier`);
+//   };
 
-  // zwracamy to co potrzebne jest globalnie wzakresie modula
-  return {
-    addToCart,
-    cart,
-    totalPrice,
-    totalQuantity,
-  };
-})(); //closures - funkcja zistałą wywołąna, ale wciąż mamy dostęp do zmiennych, utworzonych w jej środku, które ta funkcja zwróciła
+//   // zwracamy to co potrzebne jest globalnie wzakresie modula
+//   return {
+//     addToCart,
+//     cart,
+//     totalPrice,
+//     totalQuantity,
+//   };
+// })(); //closures - funkcja zistałą wywołąna, ale wciąż mamy dostęp do zmiennych, utworzonych w jej środku, które ta funkcja zwróciła
 
-ShoppingCart2.addToCart('apple', 4);
-ShoppingCart2.addToCart('pizza', 2);
-console.log(ShoppingCart2);
-console.log(ShoppingCart2.shippingCost); //undefined - ponieważ jest w zakresie prywatnym
+// ShoppingCart2.addToCart('apple', 4);
+// ShoppingCart2.addToCart('pizza', 2);
+// console.log(ShoppingCart2);
+// console.log(ShoppingCart2.shippingCost); //undefined - ponieważ jest w zakresie prywatnym
+
+//////////////////////////////////////////////
+// Commonjs modules(NODE.js)
+// All of this not workin in our code and browser, just as example
+// Export
+// export.addToCart = function (product, quantity) {
+//       cart.push({ product, quantity });
+//       console.log(
+//         `${quantity} ${product} added to cart (shipping cost is ${shippingCost})`
+//       );
+//     };
+
+//     // Import
+//     const {addToCart} = require('./shoppingCart')
