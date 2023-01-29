@@ -1,4 +1,4 @@
-5010
+5011
 139C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\callsites133194681334374193 1
 165C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\@parcel\watcher\src\watchman\IPC.hh133194681346643410 0
 163C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lightningcss\node\targets.js.flow133194681339462821 0
@@ -7,15 +7,20 @@
 129C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules133194682051457915 1
 146C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\@babel\highlight133194681334161107 1
 159C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\leaflet\src\geometry\Point.js133194583658450882 0
-146C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\svgo\lib\svgo.js133194681342747740 0
-156C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\leaflet\src\layer\Layer.js133194583657641558 0
-147C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\svgo\lib\types.ts133194681342990972 0
-125C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\clean.js133116033420103398 0
-161C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\css-tree\lib\tokenizer\const.js133194681337905083 0
 152C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\path-type\package.json133194681333469573 0
 177C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\caniuse-lite\data\features\css-focus-visible.js133194681345082583 0
 156C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\_getAllKeysIn.js133194587346883296 0
-121C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\dist133194710067607579 1
+121C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\dist133194734325694096 1
+152C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\mergeWith.js133194587349743448 0
+158C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\color-convert\conversions.js133194681334023615 0
+155C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\@parcel\markdown-ansi\lib133194681336274029 1
+143C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\color-convert133194681334953160 1
+152C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\isBoolean.js133194587349149354 0
+152C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\nth-check\package.json133194681335337953 0
+174C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\css-tree\lib\syntax\pseudo\nth-last-child.js133194681343150927 0
+147C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\flow.js133194587348792574 0
+149C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\semver\CHANGELOG.md133194681334931202 0
+132C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\shoppingCart.js133193733814839675 0
 135C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\@lmdb133194682051454386 1
 173C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\caniuse-lite\data\features\css-when-else.js133194681346065429 0
 162C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\entities\lib\decode_codepoint.js133194681333879925 0
@@ -35,11 +40,11 @@
 160C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\_baseIntersection.js133194587345391084 0
 149C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\isNull.js133194587349312731 0
 157C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\leaflet\src\images\logo.svg133194583660301544 0
-126C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\script.js133194710318791018 0
+126C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\script.js133194740729553452 0
 148C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\unset.js133194587351031258 0
 150C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\type-fest\index.d.ts133194681337350198 0
 163C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\cosmiconfig\dist\loaders.d.ts.map133194681339934774 0
-129C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\package.json133194708136655959 0
+129C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\package.json133194714860694030 0
 151C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\xxhash-wasm\README.md133194681338219759 0
 179C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\caniuse-lite\data\features\input-email-tel-url.js133194681348350210 0
 160C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\yaml\browser\dist\parse-cst.js133194681337969244 0
@@ -59,15 +64,6 @@
 134C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\package-lock.json133194682051925524 0
 150C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\@parcel\packager-raw133194681368468060 1
 180C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\caniuse-lite\data\features\css-overflow-overlay.js133194681345621828 0
-152C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\mergeWith.js133194587349743448 0
-158C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\color-convert\conversions.js133194681334023615 0
-155C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\@parcel\markdown-ansi\lib133194681336274029 1
-143C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\color-convert133194681334953160 1
-152C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\isBoolean.js133194587349149354 0
-152C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\nth-check\package.json133194681335337953 0
-174C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\css-tree\lib\syntax\pseudo\nth-last-child.js133194681343150927 0
-147C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\flow.js133194587348792574 0
-132C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\shoppingCart.js133193733814839675 0
 160C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\nth-check\lib\esm\compile.d.ts133194681338155778 0
 161C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\caniuse-lite\data\regions\GG.js133194681347636016 0
 172C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\@parcel\markdown-ansi\lib\markdown-ansi.js133194681336452086 0
@@ -200,6 +196,7 @@
 135C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\chalk133194681335022884 1
 153C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\conformsTo.js133194587348303489 0
 148C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\chrome-trace-event133194681334982371 1
+137C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\is-json133194681334917620 1
 152C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\_baseKeys.js133194587345569223 0
 135C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\clone133194681340719950 1
 147C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\last.js133194587349525560 0
@@ -309,7 +306,6 @@
 185C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.umd.js.map133194681335097720 0
 153C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\_realNames.js133194587347554021 0
 140C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\is-extglob133194681334103634 1
-137C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\is-json133194681334917620 1
 154C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\v8-compile-cache\LICENSE133194681333490311 0
 143C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\timsort\build133194681337934083 1
 150C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\htmlnano\LICENSE.txt133194681343071373 0
@@ -878,8 +874,8 @@
 154C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\weak-lru-cache\README.md133194681335322175 0
 195C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\@swc\helpers\src\_class_check_private_static_field_descriptor.mjs133194681345839980 0
 161C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\caniuse-lite\data\regions\TW.js133194681352731779 0
-163C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\@parcel\packager-raw\package.json133194681368523343 0
 181C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\caniuse-lite\data\features\getboundingclientrect.js133194681347595674 0
+163C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\@parcel\packager-raw\package.json133194681368523343 0
 161C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\weak-lru-cache\rollup.config.js133194681334797208 0
 150C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\weak-lru-cache\tests133194681334922650 1
 150C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\timsort\package.json133194681336748012 0
@@ -1400,6 +1396,9 @@
 160C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\sortedLastIndexOf.js133194587350461190 0
 151C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\svgo\lib\svgo-node.js133194681342505511 0
 161C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\css-tree\lib\syntax\node\Raw.js133194681343495005 0
+146C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\svgo\lib\svgo.js133194681342747740 0
+156C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\leaflet\src\layer\Layer.js133194583657641558 0
+147C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\svgo\lib\types.ts133194681342990972 0
 166C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\leaflet\src\layer\vector\Renderer.js133194583658612978 0
 146C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\semver\range.bnf133194681334043608 0
 162C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\regenerator-runtime\package.json133194681336268464 0
@@ -1423,12 +1422,12 @@
 151C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\isNumber.js133194587349326526 0
 154C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\supports-color\readme.md133194681334487860 0
 146C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\stable\README.md133194681333911541 0
-150C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lmdb\src\lmdb-js.cpp133194681343809562 0
-157C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\lodash.default.js133194587349552437 0
-161C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\_insertWrapDetails.js133194587347147971 0
 164C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\htmlparser2\lib\Tokenizer.d.ts.map133194681336036787 0
 147C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\srcset\index.d.ts133194681336535268 0
 150C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\pullAll.js133194587350138164 0
+150C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lmdb\src\lmdb-js.cpp133194681343809562 0
+157C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\lodash.default.js133194587349552437 0
+161C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\_insertWrapDetails.js133194587347147971 0
 170C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\css-tree\lib\syntax\node\TypeSelector.js133194681343987485 0
 167C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\@lmdb\lmdb-win32-x64\node.abi108.node133194681451698910 0
 149C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\srcset\package.json133194681335972381 0
@@ -1464,7 +1463,6 @@
 161C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\caniuse-lite\data\regions\PF.js133194681351111562 0
 149C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\json5\lib\util.d.ts133194681340938565 0
 163C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\source-map\dist\source-map.min.js133194681338553360 0
-149C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\semver\CHANGELOG.md133194681334931202 0
 147C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\semver\bin\semver133194681333778139 0
 149C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\safe-buffer\LICENSE133194681333474573 0
 157C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\_arrayIncludes.js133194587344742579 0
@@ -2014,9 +2012,9 @@
 155C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\_createRange.js133194587346702210 0
 146C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\map.js133194587349608749 0
 146C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\gte.js133194587348916398 0
+159C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\domelementtype\lib\index.d.ts133194681335740906 0
 148C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\rearg.js133194587350198344 0
 148C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\hasIn.js133194587348940264 0
-159C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\domelementtype\lib\index.d.ts133194681335740906 0
 158C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\@parcel\workers\lib\child.js133194681342289569 0
 155C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\partialRight.js133194587350044950 0
 150C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\lodash-es\indexOf.js133194587348972233 0
@@ -3210,6 +3208,7 @@
 157C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\css-tree\lib\utils\names.js133194681343097869 0
 184C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\@babel\highlight\node_modules\ansi-styles\package.json133194681333490311 0
 177C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\css-tree\lib\tokenizer\char-code-definitions.js133194681336836116 0
+161C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\css-tree\lib\tokenizer\const.js133194681337905083 0
 168C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\@swc\helpers\src\_array_with_holes.mjs133194681345692107 0
 161C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\css-tree\lib\tokenizer\index.js133194681342615752 0
 164C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\cosmiconfig\dist\getDirectory.d.ts133194681341095960 0
@@ -3949,7 +3948,7 @@
 174C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\@parcel\runtime-js\src\helpers\bundle-url.js133194681387088173 0
 164C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\caniuse-lite\data\features\sdch.js133194681351829352 0
 172C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\caniuse-lite\data\features\setimmediate.js133194681351883843 0
-132C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\dist\index.html133194710065924920 0
+132C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\dist\index.html133194731501114612 0
 169C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\caniuse-lite\data\features\shadowdom.js133194681351927778 0
 173C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\caniuse-lite\data\features\sharedworkers.js133194681351960590 0
 163C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\caniuse-lite\data\features\sni.js133194681352037484 0
@@ -5007,5 +5006,7 @@
 141C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\.bin\terser133194682002522607 0
 145C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\.bin\terser.cmd133194682002524017 0
 145C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\node_modules\.bin\terser.ps1133194682002522607 0
-139C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\dist\index.8cfc62b9.js133194710067518620 0
-143C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\dist\index.8cfc62b9.js.map133194710067592587 0
+139C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\dist\index.63c53986.js133194714957082444 0
+143C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\dist\index.63c53986.js.map133194714957211679 0
+139C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\dist\index.8cfc62b9.js133194734325619936 0
+143C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\JS-Modules\dist\index.8cfc62b9.js.map133194734325671906 0

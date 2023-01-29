@@ -163,3 +163,30 @@ console.log(stateDeepClone);
 // }
 // Next using it in our terminal:
 // npm run start
+
+class Person {
+  #geering = 'Hey';
+  constructor(name) {
+    this.name = name;
+    console.log(`${this.#geering}, ${this.name}`);
+  }
+}
+
+const jonas = new Person('Jonas');
+
+console.log('Jonas' ?? null);
+
+// ES6 features are still in our bundler code(in dist folder)
+console.log(cart.find(el => el.quantity >= 2));
+
+Promise.resolve('TEST').then(x => console.log(x));
+
+// all of stuff, usually we useing it:
+import 'core-js/stable';
+
+// one of stuff - create a smaller file
+// import 'core-js/stable/array/find'
+// import 'core-js/stable/promise';
+
+// Polifilling async function
+import 'regenerator-runtime/runtime';

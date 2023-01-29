@@ -688,11 +688,24 @@ console.log(stateDeepClone);
 if (module.hot) module.hot.accept();
  //this code only parcel can understand
 // wszystkie zmiany w kodzie dodaj się do strony, bez jej przeładowywania
-console.log(stateDeepClone); // Also we can ads to package.jsom w object "scripts":{
- // "start":"parcel index.html"
- // }
- // Next using it in our terminal:
- // npm run start
+console.log(stateDeepClone);
+// Also we can ads to package.jsom w object "scripts":{
+// "start":"parcel index.html"
+// }
+// Next using it in our terminal:
+// npm run start
+class Person {
+    #geering = "Hey";
+    constructor(name){
+        this.name = name;
+        console.log(`${this.#geering}, ${this.name}`);
+    }
+}
+const jonas = new Person("Jonas");
+console.log("Jonas" ?? null);
+// ES6 features are still in our bundler code(in dist folder)
+console.log((0, _shoppingCartJs.cart).find((el)=>el.quantity >= 2));
+Promise.resolve("TEST").then((x)=>console.log(x));
 
 },{"./shoppingCart.js":"l6bJl","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","lodash-es":"bXNwz"}],"l6bJl":[function(require,module,exports) {
 // Exporting module
