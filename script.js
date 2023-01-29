@@ -111,3 +111,34 @@ console.log(cart);
 // new-item index.js - tworzy file
 // del index.js - usuwa file
 // mv .\iryna.html ../  - przenosi file do ../ - rodzica
+// rmdir TEST - usuwa pusty folder???
+
+import cloneDeep from './.gitignore/node_modules/lodash-es/cloneDeep.js';
+
+const state = {
+  cart: [
+    {
+      product: 'bread',
+      quantity: 5,
+    },
+    {
+      product: 'pizza',
+      quantity: 6,
+    },
+  ],
+  user: {
+    loggedIn: true,
+  },
+};
+
+// cloning deep nested object
+// js way:
+const stateClone = Object.assign({}, state);
+console.log(stateClone);
+// state.user.loggedIn = false;
+// console.log(stateClone); //zmieni także tutaj tę wartość
+
+// lodash way
+const stateDeepClone = cloneDeep(state); //ten clon zostanie bez zmian
+state.user.loggedIn = false;
+console.log(stateDeepClone);
